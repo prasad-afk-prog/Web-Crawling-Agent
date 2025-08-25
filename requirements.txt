@@ -1,10 +1,5 @@
 streamlit>=1.37.0
-<<<<<<< HEAD
 playwright
-
-# Core crawling framework
-=======
->>>>>>> 4cf49bd (Added .streamlit/config.toml and crawler app code)
 crawl4ai>=0.4.0
 playwright>=1.36.0
 aiohttp>=3.9.5
