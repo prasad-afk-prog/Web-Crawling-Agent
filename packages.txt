@@ -17,3 +17,5 @@ libatspi2.0-0
 libx11-xcb1
 libxcursor1
 libxi6
+libcairo2
+libpango-1.0-0 
