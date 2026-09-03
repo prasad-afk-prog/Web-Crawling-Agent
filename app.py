@@ -2,6 +2,7 @@ import os
 os.system("playwright install chromium")
 
 import streamlit as st
+print("my first commit")
 import asyncio
 import json
 from urllib.parse import urlparse
